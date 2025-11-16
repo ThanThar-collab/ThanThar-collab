@@ -35,12 +35,15 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/chit-hmue-than-thar-a87452254/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
 </p>
 
+<hr>
+
 ### My Skills
 
 <em>Here are some of the technologies that I have worked with </em>
 
 <p align="left">
     <strong>Languages:</strong>
+    <br>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="c"/>
     </a>
