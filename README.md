@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### 👩‍💻 About Me
 
 <p align="left">
-  I'm a computer science engineering bachelor student and will achieve BE.hons Degree at myanmar institute of information technology (shorts for MIIT), Mandalay. I enjoy learning new tech stacks and I have determined to become a full-stack developer who can assist developer community.
+  I'm a computer science engineering bachelor student at myanmar institute of information technology (shorts for MIIT), Mandalay. I enjoy learning new tech stacks and I have determined to become a full-stack developer who can assist developer community.
 
 - 📝 I am currently working on collaboration projects which require \*\*React and Express.js"
 - 📩 How to reach me : \*\*juliawilson757@gmail.com"
