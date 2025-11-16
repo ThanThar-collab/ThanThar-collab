@@ -56,6 +56,7 @@ Here are some ideas to get you started:
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="javascript"/>
      </a>
+     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="python"/></a>
      <br><br>
     <strong>Programming Paradigms:</strong>
     <br>
@@ -63,7 +64,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/OOP-1C4D78?style=flat&logoColor=white" alt="Object Oriented Programming"/>
     </a>
     <br><br>
-    <strong>Frontend Tools:</strong>
+    <strong>Frontend Tools:</strong><br>
     <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
     <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="react"/>
     </a>
@@ -72,4 +73,13 @@ Here are some ideas to get you started:
     </a>
     <br><br>
 
+<hr>
+
+### My GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ThanThar-collab&show_icons=true&locale=en&theme=tokyonight" alt="Your GitHub Stats" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ThanThar-collab&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
+</p>
 </p>
