@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi there, I'm Chit Hmue Than Thar</h1>
-<h3 align="center">I am a enthusiast programmer and a active learner who has creative skills with a eager mindset to value work discipline and consistency.</h3>
+<h3 align="center">I am a enthusiast programmer and a active learner who has creative skills with a strong mindset to value work discipline,and consistency .</h3>
 
 ---
 
@@ -33,4 +33,15 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/chit-hmue-than-thar-a87452254/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+</p>
+
+### My Skills
+
+<em>Here are some of the technologies that I have worked with </em>
+
+<p align="left">
+    <strong>Languages:</strong>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="c"/>
+    </a>
 </p>
