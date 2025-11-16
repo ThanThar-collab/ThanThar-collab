@@ -47,11 +47,29 @@ Here are some ideas to get you started:
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="c"/>
     </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="html"/>
+    </a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="css"/>
     </a>
      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="javascript"/>
      </a>
+     <br><br>
+    <strong>Programming Paradigms:</strong>
+    <br>
+    <a href="https://en.wikipedia.org/wiki/Object-oriented_programming" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/OOP-1C4D78?style=flat&logoColor=white" alt="Object Oriented Programming"/>
+    </a>
+    <br><br>
+    <strong>Frontend Tools:</strong>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="react"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" alt="nextjs"/>
+    </a>
+    <br><br>
 
 </p>
